@@ -12,15 +12,9 @@ If ongoing support, maintainance or training related to the software will be req
 
 ## Agreement Duration
 
+The _specification_ of the software that Contractor will develop for Customer is usually a purely commercial document, so there's a limit to how much CodePact can help you with it. It's simplest just to incorporate the software specification into this agreement by refering to it.  CodePact calls this document the "Work Scope".
+
 https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
-
-## Work Scope
-
-The _specification_ of the software that Contractor will develop for Customer is usually a purely commercial document, so there's a limit to how much CodePact can help you with it. It's simplest just to incorporate the software specification into this agreement by refering to it.
-
-### Work Scope
-
-Contractor will develop software to meet the software specifications in the Work Scope.
 
 ## Inconsistency with Work Scope
 
