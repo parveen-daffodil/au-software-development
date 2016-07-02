@@ -49,13 +49,13 @@ https://github.com/CodePact/au-components/blob/widgets/out_scope_work.md
 
 https://github.com/CodePact/au-components/blob/widgets/intellectual_property.md
 
-## Limits on Suing
-
-https://github.com/CodePact/au-components/blob/widgets/limitation.md
-
 ## Confidentiality
 
 https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
+
+## Limits on Suing
+
+https://github.com/CodePact/au-components/blob/widgets/limitation.md
 
 ## Cancellation for breaking the agreement
 
