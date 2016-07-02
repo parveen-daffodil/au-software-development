@@ -25,19 +25,19 @@ https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
 
 https://github.com/CodePact/au-components/blob/widgets/document_inconsistency.md
 
-
 ## Payment Calculation
 
 https://github.com/CodePact/au-components/blob/widgets/payment_calculation.md
 
 ## Payment Methods
 
+There are a lot of ways that a contractor can get paid for software development work, and some are better suited to the nature of the work than others.  Larger projects tend to benefit from the "milestone" payments approach, which stages payments to manage risk for both parties.  For smaller jobs, it's usually fine to take a "pay some up front and the rest at the end approach".
 
 https://github.com/CodePact/au-components/blob/widgets/payment_method.md
 
 ## Out of scope work
 
-In software development, it's not at all uncommon for a customer to have new ideas about what they want in the software product after development work has already started. There needs to be way to determine how the Contractor gets paid for this additional work.
+In software development, it's not at all uncommon for a customer to have new ideas about what they want in the software product after development work has already started. There needs to be way to determine how the Contractor gets paid this work if it's additional.
 
 https://github.com/CodePact/au-components/blob/widgets/out_scope_work.md
 
