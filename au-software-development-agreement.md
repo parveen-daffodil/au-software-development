@@ -1,6 +1,8 @@
 # Software Development Agreement
 
-`Purpose` This template is for the creation of an agreement in which a Contractor will create software for a Customer. This template covers only the _creation_ of the software. If ongoing support, maintainance or training related to the software will be required, Contractor and Customer should create an additional service agreement.
+`Purpose` This template is for the creation of an agreement where a contractor creates software for a customer. This template covers only the _creation_ of the software.
+
+If ongoing support, maintainance or training related to the software will be required, contractor and customer should create an additional service agreement.
 
 `Party 1 Name` Contractor
 
