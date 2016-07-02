@@ -12,7 +12,12 @@ If ongoing support, maintainance or training related to the software will be req
 
 ## Agreement Duration
 
-The _specification_ of the software that Contractor will develop for Customer is usually a purely commercial document, so there's a limit to how much CodePact can help you with it. It's simplest just to incorporate the software specification into this agreement by refering to it.  CodePact calls this document the "Work Scope".
+Software development is usually:
+
+- work done according to a "work scope" (work description); or
+- continuous ad-hoc work.
+
+If you're doing the first kind of work, make sure you have a Work Scope - you can mkae it part of the Agreement by just mentioning it in the right way.
 
 https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
 
@@ -20,13 +25,6 @@ https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
 
 https://github.com/CodePact/au-components/blob/widgets/document_inconsistency.md
 
-## Acceptance Testing
-
-Generally speaking, it's a good idea for Contractor and Customer to agree on how they will determine that the software meets the software specifications laid out in the Work Scope. This is usually called acceptance testing.
-
-### Acceptance Testing
-
-Contractor and Customer will determine if the Software meets the Software Specification by using the testing process in {{testing document}}
 
 ## Payment Calculation
 
@@ -34,11 +32,6 @@ https://github.com/CodePact/au-components/blob/widgets/payment_calculation.md
 
 ## Payment Methods
 
-For a software development agreement, it's probably a good idea to look at your acceptance testing document to determine the most sensible way to pay the Contractor.
-
-If the software product is simple enough that both parties are happy to only have one set of acceptance tests, the third option for payment is probably a good idea.
-
-If there are multiple sets of acceptance tests over time, it's probably best to make passing each of these tests a milestone and to use the fourth payment option below.
 
 https://github.com/CodePact/au-components/blob/widgets/payment_method.md
 
