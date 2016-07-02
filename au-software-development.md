@@ -4,7 +4,7 @@
 
 If ongoing support, maintainance or training related to the software will be required, contractor and customer should create an additional service agreement.
 
-`Party 1 Name` Contractor
+`Party 1 Name` Developer
 
 `Party 2 Name` Customer
 
@@ -41,7 +41,7 @@ https://github.com/CodePact/au-components/blob/widgets/payment_method.md
 
 ## Out of scope work
 
-In software development, it's not at all uncommon for a customer to have new ideas about what they want in the software product after development work has already started. There needs to be way to determine how the Contractor gets paid this work if it's additional.
+In software development, it's not at all uncommon for a customer to have new ideas about what they want in the software product after development work has already started. There needs to be way to determine how the Developer gets paid this work if it's additional.
 
 https://github.com/CodePact/au-components/blob/widgets/out_scope_work.md
 
