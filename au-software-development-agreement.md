@@ -57,6 +57,14 @@ https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
 
+## Cancellation for convenience
+
+Cancellation for convenience makes sense where software is developed on a continuous basis.
+
+If the services provided under the Agreement are based on a Work Scope, this section should be removed.
+
+https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
+
 ## Cancellation for breaking the agreement
 
 https://github.com/CodePact/au-components/blob/widgets/cancel_breach.md
