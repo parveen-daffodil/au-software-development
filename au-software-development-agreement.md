@@ -65,7 +65,7 @@ If the services provided under the Agreement are based on a Work Scope, this sec
 
 https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
-## Cancellation when agreement is broken
+## Cancellation if agreement is broken
 
 https://github.com/CodePact/au-components/blob/widgets/cancel_breach.md
 
