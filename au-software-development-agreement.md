@@ -10,7 +10,7 @@ If ongoing support, maintainance or training related to the software will be req
 
 `Jurisdiction` Australia
 
-## Agreement Duration
+## Agreement length
 
 Software development is usually:
 
@@ -21,15 +21,15 @@ If you're doing the first kind of work, make sure you have a Work Scope - you ca
 
 https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
 
-## Inconsistency with Work Scope
+## Inconsistency between documents
 
 https://github.com/CodePact/au-components/blob/widgets/document_inconsistency.md
 
-## Payment Calculation
+## Payment calculation
 
 https://github.com/CodePact/au-components/blob/widgets/payment_calculation.md
 
-## Payment Methods
+## Payment methods
 
 There are a lot of ways that a contractor can get paid for software development work, and some are better suited to the nature of the work than others.
 
@@ -45,7 +45,7 @@ In software development, it's not at all uncommon for a customer to have new ide
 
 https://github.com/CodePact/au-components/blob/widgets/out_scope_work.md
 
-## Intellectual Property
+## Intellectual property
 
 https://github.com/CodePact/au-components/blob/widgets/intellectual_property.md
 
@@ -53,7 +53,7 @@ https://github.com/CodePact/au-components/blob/widgets/intellectual_property.md
 
 https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
 
-## Limits on Suing
+## Limits on suing
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
 
@@ -69,7 +69,7 @@ https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 https://github.com/CodePact/au-components/blob/widgets/cancel_breach.md
 
-## Neccesary Bureaucracy
+## Neccesary bureaucracy
 
 https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
