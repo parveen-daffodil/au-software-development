@@ -47,7 +47,7 @@ https://github.com/CodePact/au-components/blob/widgets/out_scope_work.md
 
 ## Intellectual property
 
-https://github.com/CodePact/au-components/blob/widgets/intellectual_property.md
+https://github.com/CodePact/au-components/blob/widgets/ip_services.md
 
 ## Confidentiality
 
