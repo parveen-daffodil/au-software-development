@@ -77,10 +77,14 @@ https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 https://github.com/pjbrow/au-defs-wdgts/blob/master/software-dev-defs.md
 
+https://github.com/pjbrow/au-defs-wdgts/blob/master/library_definitions.md
+
 ## Variables
 
 https://github.com/pjbrow/au-defs-wdgts/blob/master/library_variables.md
 
 ## Widgets
+
+https://github.com/pjbrow/au-defs-wdgts/blob/master/software-dev-widgets.json
 
 https://github.com/pjbrow/au-defs-wdgts/blob/master/software-dev-widgets.json
