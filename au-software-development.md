@@ -87,4 +87,4 @@ https://github.com/pjbrow/au-defs-wdgts/blob/master/library_variables.md
 
 https://github.com/pjbrow/au-defs-wdgts/blob/master/software-dev-widgets.json
 
-https://github.com/pjbrow/au-defs-wdgts/blob/master/software-dev-widgets.json
+https://github.com/pjbrow/au-defs-wdgts/blob/master/library_widgets.json
