@@ -10,21 +10,6 @@ If ongoing support, maintenance or training related to the software will be requ
 
 `Jurisdiction` Australia
 
-## Agreement length
-
-Software development is usually:
-
-- work done according to a "work scope" (work description); or
-- continuous ad-hoc work.
-
-If you're doing the first kind of work, make sure you have a Work Scope - you can make it part of the Agreement by just mentioning it in the right way.
-
-https://github.com/CodePact/au-components/blob/master/agreement_duration.md
-
-## Inconsistency between documents
-
-https://github.com/CodePact/au-components/blob/master/document_inconsistency.md
-
 ## Payment calculation
 
 https://github.com/CodePact/au-components/blob/master/payment_calculation.md
@@ -61,6 +46,17 @@ https://github.com/CodePact/au-components/blob/master/limitation.md
 
 https://github.com/CodePact/au-components/blob/master/indemnity.md
 
+## Agreement length
+
+Software development is usually:
+
+- work done according to a "work scope" (work description); or
+- continuous ad-hoc work.
+
+If you're doing the first kind of work, make sure you have a Work Scope - you can make it part of the Agreement by just mentioning it in the right way.
+
+https://github.com/CodePact/au-components/blob/master/agreement_duration.md
+
 ## Cancellation for convenience
 
 Cancellation for convenience makes sense where software is developed on a continuous basis.
@@ -72,6 +68,10 @@ https://github.com/CodePact/au-components/blob/master/cancel_convenience.md
 ## Cancellation if agreement is broken
 
 https://github.com/CodePact/au-components/blob/master/cancel_breach.md
+
+## Inconsistency between documents
+
+https://github.com/CodePact/au-components/blob/master/document_inconsistency.md
 
 ## Necessary bureaucracy
 
